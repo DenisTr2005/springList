@@ -13,7 +13,7 @@ public class EmployeeService {
     private final List<Employee> employees = new ArrayList<>();
 
     public List<Employee> getEmployees() {
-        return employees;
+        return new ArrayList<>(employees);
     }
 
     public Employee addEmployee(String firstName, String lastName)
