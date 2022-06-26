@@ -1,8 +1,8 @@
 package denistr.springlist.service;
 
-import denistr.springlist.exceptions.EmployeeAlreadyAddedException;
-import denistr.springlist.exceptions.EmployeeNotFoundException;
-import denistr.springlist.exceptions.EmployeeStorageIsFullException;
+import denistr.springlist.exception.EmployeeAlreadyAddedException;
+import denistr.springlist.exception.EmployeeNotFoundException;
+import denistr.springlist.exception.EmployeeStorageIsFullException;
 import denistr.springlist.model.Employee;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package denistr.springlist.exceptions;
+package denistr.springlist.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
