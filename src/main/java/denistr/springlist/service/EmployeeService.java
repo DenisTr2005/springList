@@ -3,6 +3,7 @@ package denistr.springlist.service;
 import denistr.springlist.exceptions.EmployeeAlreadyAddedException;
 import denistr.springlist.exceptions.EmployeeNotFoundException;
 import denistr.springlist.exceptions.EmployeeStorageIsFullException;
+import denistr.springlist.model.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

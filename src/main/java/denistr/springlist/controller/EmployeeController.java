@@ -1,6 +1,6 @@
 package denistr.springlist.controller;
 
-import denistr.springlist.service.Employee;
+import denistr.springlist.model.Employee;
 import denistr.springlist.service.EmployeeService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

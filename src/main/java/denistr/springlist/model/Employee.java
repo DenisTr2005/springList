@@ -1,4 +1,4 @@
-package denistr.springlist.service;
+package denistr.springlist.model;
 
 import java.util.Objects;
 
